@@ -12,7 +12,7 @@ There are other methods too for linear dimensionality reduction. We have include
 •	PCA (Principal Component Analysis) and data reduction
 •	Eigen vectors and Eigen values
 
-#Introduction	
+##Introduction	
 Background	
 Motivation and Overview	
 Approach	
