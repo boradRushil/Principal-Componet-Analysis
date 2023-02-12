@@ -11,3 +11,17 @@ There are other methods too for linear dimensionality reduction. We have include
 # Keywords
 •	PCA (Principal Component Analysis) and data reduction
 •	Eigen vectors and Eigen values
+
+#Introduction	
+Background	
+Motivation and Overview	
+Approach	
+Description and the Approach used	
+Explanation of the concepts used.	
+Covariance Matrix	
+Eigen vectors: -	
+Power simulation	
+Coding and Simulation	
+Approach of coding strategy.
+Simulations and outputs.	
+Conclusion	
