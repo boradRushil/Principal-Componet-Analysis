@@ -1,4 +1,19 @@
 # Principal-Componet-Analysis
+
+•Introduction	
+  •Background	
+  •Motivati•and Overview	
+•Approach	
+ •Description and the Approach used	
+ •Explanation of the concepts used.	
+    •Covariance Matrix	
+    •Eigen vectors: -	
+    •Power simulation	
+•Coding and Simulation	
+  •Approach of coding strategy.
+  •Simulations and outputs.	
+•Conclusion	
+
 The idea behind the project is to implement Principle Component Analysis (PCA) to a medical data (of liver patients)and give the key variables with the help of eigen value decomposition and covariance relations.
 
 “Principal components are the key to PCA; they represent what's underneath the hood of your data.”
@@ -12,16 +27,4 @@ There are other methods too for linear dimensionality reduction. We have include
 •	PCA (Principal Component Analysis) and data reduction
 •	Eigen vectors and Eigen values
 
-##Introduction	
-Background	
-Motivation and Overview	
-Approach	
-Description and the Approach used	
-Explanation of the concepts used.	
-Covariance Matrix	
-Eigen vectors: -	
-Power simulation	
-Coding and Simulation	
-Approach of coding strategy.
-Simulations and outputs.	
-Conclusion	
+
