@@ -1,18 +1,18 @@
 # Principal-Componet-Analysis
 
--•Introduction	
-  -•Background	
-  -•Motivati•and Overview	
--•Approach	
- •Description and the Approach used	
- •Explanation of the concepts used.	
-    •Covariance Matrix	
-    •Eigen vectors: -	
-    •Power simulation	
-•Coding and Simulation	
-  •Approach of coding strategy.
-  •Simulations and outputs.	
-•Conclusion	
+- Introduction	
+  - Background	
+  - Motivati•and Overview	
+- Approach	
+ - Description and the Approach used	
+- Explanation of the concepts used.	
+    - Covariance Matrix	
+    - Eigen vectors: -	
+    - Power simulation	
+- Coding and Simulation	
+  - Approach of coding strategy.
+  - Simulations and outputs.
+- Conclusion	
 
 The idea behind the project is to implement Principle Component Analysis (PCA) to a medical data (of liver patients)and give the key variables with the help of eigen value decomposition and covariance relations.
 
