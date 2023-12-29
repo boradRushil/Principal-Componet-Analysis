@@ -1,9 +1,9 @@
 # Principal-Componet-Analysis
 
-•Introduction	
-  •Background	
-  •Motivati•and Overview	
-•Approach	
+-•Introduction	
+  -•Background	
+  -•Motivati•and Overview	
+-•Approach	
  •Description and the Approach used	
  •Explanation of the concepts used.	
     •Covariance Matrix	
